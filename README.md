@@ -1,6 +1,3 @@
-[English](./CHANGELOG.md) | 简体中文
-
-
 #### 2020-6-30
 
 - 【添加】项目 `Device-tree-normalize` 。
