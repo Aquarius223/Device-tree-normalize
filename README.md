@@ -8,3 +8,5 @@
 - 【创建】导入`android_vendor_smartisan_ocean(mkq-mr1)@Mokee`以支持 `jenkins`自动化编译。
 - 【创建】导入`android_kernel_smartisan_sdm710(mkq-mr1)@Mokee`以支持 `jenkins`自动化编译。
 
+#### 2020-7-01
+- 【添加】项目 `android_device_xiaomi_msm8953-common(Q)@LINEAGE-17.1` 支持 `exTHmUI-10`编译。
