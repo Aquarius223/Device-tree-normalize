@@ -10,3 +10,6 @@
 
 #### 2020-7-01
 - 【添加】项目 `android_device_xiaomi_msm8953-common(Q)@LINEAGE-17.1` 支持 `exTHmUI-10`编译。
+
+#### 2020-7-02
+- 【修改】项目 `android_device_smartisan_msm8953-common(Q)@loserq` 支持 `使用AOSP的振动hal层`编译。
